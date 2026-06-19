@@ -172,12 +172,13 @@ strong {
 .footer-right a::after {
     content: "";
     display: inline-block;
-    width: 7px;
-    height: 7px;
+    width: 0;
+    height: 0;
     margin-left: 6px;
     margin-bottom: 2px;
-    border-top: 2px solid currentColor;
-    border-right: 2px solid currentColor;
+    border: 5px solid transparent;
+    border-bottom-color: currentColor;
+    border-right-color: currentColor;
     transform: rotate(45deg);
     vertical-align: middle;
 }
