@@ -62,7 +62,7 @@ a:hover {
 h1 {
     font-family: var(--font-heading);
     font-weight: 700;
-    font-size: clamp(2.2rem, 5vw, 3.2rem);
+    font-size: clamp(1.4rem, 3.2vw, 2.0rem);
     line-height: 1.15;
     letter-spacing: -0.02em;
     color: var(--color-text);
