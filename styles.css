@@ -298,22 +298,18 @@ strong {
 }
 
 /* ──────────────────────────────────────────────
-   DATES TABLE
+   DATES LIST
    ────────────────────────────────────────────── */
-.dates-table {
-    width: auto;
-    border-collapse: collapse;
+.dates-list {
+    list-style: none;
+    padding-left: 0;
     margin-top: 0.8rem;
     margin-bottom: 1.2rem;
 }
 
-.dates-table tr {
-    border-bottom: none;
-}
-
-.dates-table td {
+.dates-list li {
     padding: 0.18rem 0;
-    vertical-align: middle;
+    font-weight: 500;
 }
 
 .date-label {
@@ -348,55 +344,20 @@ strong {
    COMMITTEE
    ────────────────────────────────────────────── */
 .committee-list {
-    display: flex;
-    flex-direction: column;
-    gap: 0;
+    padding-left: 1.5rem;
+    margin-top: 1rem;
 }
 
-.committee-member {
-    padding: 1rem 0;
-    border-bottom: none;
+.committee-list li {
+    margin-bottom: 0.75rem;
+    line-height: 1.55;
 }
 
-.committee-member:first-child {
-    padding-top: 0;
+.committee-list p {
+    margin-bottom: 0;
 }
 
-.committee-member h3 {
-    font-family: var(--font-heading);
-    font-weight: 600;
-    color: var(--color-text);
-    margin-bottom: 0.15rem;
-}
-
-.member-role {
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--color-text-secondary);
-    margin-bottom: 0.3rem !important;
-}
-
-.member-affiliation {
-    color: var(--color-text-secondary);
-    line-height: 1.5;
-    margin-bottom: 0.2rem !important;
-}
-
-.member-position {
-    display: block;
-}
-
-.member-university {
-    display: block;
-}
-
-.member-email {
-    margin-bottom: 0 !important;
-    font-weight: 600;
-}
-
-.member-email a {
+.committee-list a {
     font-weight: 600;
     text-decoration: underline;
 }
@@ -486,7 +447,7 @@ strong {
         padding-left: 1rem;
     }
 
-    .dates-table {
+    .dates-list {
         width: 100%;
     }
 
