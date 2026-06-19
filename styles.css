@@ -167,22 +167,6 @@ strong {
     text-decoration: none !important;
 }
 
-/* ── External link arrow (CSS-only, no emoji/SVG) ── */
-.nav-cta::after,
-.footer-right a::after {
-    content: "";
-    display: inline-block;
-    width: 0;
-    height: 0;
-    margin-left: 6px;
-    margin-bottom: 2px;
-    border: 5px solid transparent;
-    border-bottom-color: currentColor;
-    border-right-color: currentColor;
-    transform: rotate(45deg);
-    vertical-align: middle;
-}
-
 /* Hamburger */
 .nav-toggle {
     display: none;
