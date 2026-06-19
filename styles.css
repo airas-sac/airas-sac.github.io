@@ -503,3 +503,18 @@ strong {
         align-items: flex-start;
     }
 }
+
+/* ── External link arrow (CSS-only, no emoji/SVG) ── */
+.nav-cta::after,
+.footer-right a::after {
+    content: "";
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    margin-left: 6px;
+    margin-bottom: 2px;
+    border-top: 2px solid currentColor;
+    border-right: 2px solid currentColor;
+    transform: rotate(45deg);
+    vertical-align: middle;
+}
