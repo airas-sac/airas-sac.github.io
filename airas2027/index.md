@@ -14,6 +14,7 @@ permalink: /airas2027/
 {: .hero-tagline}
 
 Autonomous systems (self-driving vehicles, aerial drones, cognitive robots, and industrial control platforms) are increasingly powered by AI components that handle perception, planning, and control. This shift brings real capability, but also a new kind of fragility: AI models can be fooled, manipulated, or pushed outside their training distribution in ways that classical fault-tolerance and security techniques were never designed to catch. As these systems take on more responsibility in transportation, healthcare, agriculture, and industrial settings, resilience failures carry consequences well beyond the system itself.
+{: .hero-intro}
 
 AIRAS (AI-enabled Resilience for Autonomous Systems) is a new track at ACM SAC dedicated to this challenge. We bring together researchers and practitioners working at the intersection of AI, systems security, control theory, and dependable computing, anyone building, breaking, or hardening the AI that autonomous systems rely on. Our scope spans adversarial robustness, anomaly detection, explainable AI, federated learning, and fault recovery across autonomous vehicles, robotics, drones, and industrial cyber-physical systems. We invite original research, experience reports, and emerging ideas from academia and industry.
 
@@ -54,12 +55,36 @@ resilience of AI-driven autonomous systems broadly. Topics include, but are not 
 
 ## Submission Guidelines
 
-AIRAS welcomes original submissions of up to **8 pages** (two extra pages for survey with an additional page charge) of technical content (including references, appendices, and acknowledgments). Submissions may take one of the following forms:
+### Research Papers
+{: .submission-heading}
 
-- **Research papers:** Original technical contributions that introduce new methods, systems, analyses, or evaluations for AI-enabled resilience in autonomous systems. Suitable papers may present new defenses, monitoring and assurance mechanisms, learning-enabled recovery methods, resilient system architectures, or principled analyses of attacks, failures, and trade-offs.
+AIRAS welcomes original submissions of up to **8 pages** (two extra pages for survey with an additional page charge) of technical content (including references, appendices, and acknowledgments). The author name(s) and address(es) must not appear in the body of the paper, and self-references should be in the third person. This is to facilitate a double-blind review. Only the title should be shown on the first page without the author information. Papers must be formatted according to the [ACM SAC template](https://www.sigapp.org/sac/sac2027/). For full template and submission guidance, please see the ACM SAC 2027 [website](https://www.sigapp.org/sac/sac2027/). Papers that have been concurrently submitted to other conferences or journals (double submissions) will be automatically rejected.
+
+Submissions may take one of the following forms:
+
+- **Research papers:** Original technical contributions that introduce new methods, systems, analyses, or evaluations for AI-enabled resilience in autonomous systems. Suitable papers may present new defenses, monitoring and assurance mechanisms, learning-enabled recovery methods, resilient system architectures, or principled analyses of attacks, failures, and necessary trade-offs.
 - **Empirical / Reproduction and Replication (R&R) papers:** Empirical studies, experience reports, datasets, benchmarks, testbeds, or reproduction and replication studies that confirm, question, clarify, or extend prior results. Such papers should go beyond simply re-running an artifact and should explain (a) what was reproduced or replicated, (b) what changed in the setting or assumptions, (c) what was learned, and (d) how the findings affect the design or evaluation of resilient autonomous systems.
 - **SoK / Survey / Tutorial / Perspective papers:** Systematization of Knowledge (SoK), survey, tutorial, and perspective papers that organize, contextualize, and critically assess existing work or emerging directions in an AIRAS-relevant area. Strong submissions should provide a clear taxonomy, identify technical gaps or inconsistencies in assumptions, synthesize evidence across communities, or explain how disruptive and future technologies may reshape resilience in autonomous systems. Perspective and tutorial papers should offer a well-supported viewpoint, clarify open research problems, and articulate concrete directions, architectures, and/or solution concepts. These papers may use up to **two additional pages** beyond the 8-page limit, with an extra page charge from SAC.
 {: .submission-list}
+
+
+### Student Research Competition (SRC)
+{: #src .submission-heading}
+
+Graduate students seeking feedback from the scientific community on their research ideas are invited to submit abstracts of their original unpublished and in-progress research work. Authors of selected abstracts will have the opportunity to share and discuss their research work through poster and oral presentations and compete for the three top winning places as selected by the SRC committee. The winners will receive cash awards and SIGAPP recognition certificates. Furthermore, invited authors are eligible to apply for the SIGAPP Student Travel Award Program (STAP) for support. SRC abstracts are limited to 4 pages and submitted via [SAC-SRC 2027 webpage](https://easychair.org/my/conference?conf=sacsrc2027).
+
+Please visit [ACM SRC program](https://src.acm.org/) and [SAC SRC program](https://www.sigapp.org/sac/sac2027/src_program.php) for more information.
+
+</section>
+
+<section id="submission-portal" class="section" markdown="1">
+<div class="section-rule"></div>
+
+## Submission Portal
+
+- Paper submissions: TBD
+- Student Research Competition (SRC): TBD
+{: .portal-list}
 </section>
 
 <section id="dates" class="section" markdown="1">
@@ -67,13 +92,13 @@ AIRAS welcomes original submissions of up to **8 pages** (two extra pages for su
 
 ## Important Dates
 
-- Paper Submission Deadline: TBD
+- Paper Submission Deadline: **October 2, 2026**
 - Notification to Authors: TBD
 - Camera-ready Due: TBD
 - Author Registration Deadline: TBD
 {: .dates-list}
 
-All deadlines are at **AoE** (Anywhere on Earth) and will be announced in accordance with SAC 2027 guidelines.
+All deadlines will be announced in accordance with SAC 2027 guidelines.
 {: .dates-note}
 </section>
 
