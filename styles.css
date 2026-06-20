@@ -140,14 +140,6 @@ strong {
     justify-content: space-between;
 }
 
-.nav-logo {
-    font-family: var(--font-body);
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    color: var(--color-text);
-    text-decoration: none;
-}
-
 .nav-links {
     list-style: none;
     display: flex;
@@ -245,11 +237,13 @@ strong {
 }
 
 .hero-tagline {
-    color: var(--color-text-secondary);
+    color: var(--color-text);
     font-family: var(--font-heading);
     font-style: italic;
-    line-height: 1.45;
-    margin-bottom: 0.8rem;
+    font-size: 1.18rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 0.9rem;
 }
 
 .hero-sub {
@@ -317,6 +311,20 @@ strong {
 .topics-list li strong {
     font-weight: 600;
     color: var(--color-text);
+}
+
+.submission-list {
+    padding-left: 1.5rem;
+    margin-top: 0.7rem;
+}
+
+.submission-list li {
+    margin-bottom: 0.55rem;
+    line-height: 1.52;
+}
+
+.submission-list li strong {
+    font-weight: 600;
 }
 
 .year-list {
