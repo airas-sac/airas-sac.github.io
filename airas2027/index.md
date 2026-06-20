@@ -43,6 +43,7 @@ resilience of AI-driven autonomous systems broadly. Topics include, but are not 
 - Resilience in autonomous vehicles, drones, robots, space, and industrial systems
 - Secure deployment and integrity assurance of AI models
 - AI security for safety-critical and resource-constrained autonomous platforms
+- Data-centric ML resilience (poisoning detection, noise robustness, and dataset provenance)
 - Multi-agent coordination and resilience under adversarial conditions
 - Integration of quantum computing and quantum machine learning for autonomous systems
 - Digital twin and simulation-based resilience analysis
