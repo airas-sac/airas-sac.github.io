@@ -115,7 +115,7 @@ All deadlines will be announced in accordance with SAC 2027 guidelines.
   [mohammad.hamad@tum.de](mailto:mohammad.hamad@tum.de)
 
 - **[Zain A. H. Hammadeh](https://dblp.org/pid/160/7463.html)**, German Aerospace Center (DLR)<br>
-  [zain.hammadeh@dlr.de](mailto:zain.hammadeh@dlr.de)
+  [Zain.hajhammadeh@dlr.de](mailto:Zain.hajhammadeh@dlr.de)
 {: .committee-list}
 </section>
 
