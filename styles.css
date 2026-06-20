@@ -375,6 +375,10 @@ strong {
     line-height: 1.55;
 }
 
+.dates-list li strong {
+    color: #902c2c; /* Soft, readable warm maroon/red */
+}
+
 .date-label {
     font-weight: 400;
     padding-right: 1.2rem;
