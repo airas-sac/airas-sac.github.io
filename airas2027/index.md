@@ -8,7 +8,7 @@ permalink: /airas2027/
 <header class="hero" markdown="1">
 <p class="hero-label">ACM SAC 2027 &middot; Technical Track</p>
 
-# AI-enabled Resilience for Autonomous Systems&nbsp;(AIRAS)
+# AI-enabled Resilience for<br>Autonomous Systems&nbsp;(AIRAS)
 
 *Keeping AI-driven autonomous systems resilient to faults and attacks*
 {: .hero-tagline}
@@ -19,21 +19,6 @@ AIRAS (AI-enabled Resilience for Autonomous Systems) is a new track at ACM SAC d
 
 {: .hero-sub}
 </header>
-
-<section id="scope" class="section" markdown="1">
-<div class="section-rule"></div>
-
-## Scope of AIRAS
-
-Autonomous systems - ground and aerial vehicles, cognitive robots, satellite constellations, and industrial control platforms - are increasingly governed by AI-driven components responsible for perception, planning, and actuation.
-
-> This shift creates a distinctive resilience challenge: AI components can fail or be manipulated in ways that **classical fault-tolerance and security mechanisms were not designed to handle.**
-{: .pull-quote}
-
-Research on AI-driven resilience for autonomous systems draws from systems security, machine learning, control theory, and dependable computing. **AIRAS foregrounds AI as the instrument of resilience** - the means by which an autonomous system detects, tolerates, adapts to, and recovers from failures and attacks, operating at the system level.
-
-We invite original research papers, experience reports, and contributions on emerging results related to the security and resilience of AI-driven autonomous systems. Papers will be a maximum of **8 pages** of new, previously unpublished work.
-</section>
 
 <section id="topics" class="section" markdown="1">
 <div class="section-rule"></div>
