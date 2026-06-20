@@ -107,13 +107,13 @@ All deadlines will be announced in accordance with SAC 2027 guidelines.
 
 ## Organizing Committee
 
-- **[Monowar Hasan](https://monowarhasan.info/)** (Chair), Washington State University, Pullman, WA, USA<br>
+- **[Monowar Hasan](https://monowarhasan.info/)** (Chair), Washington State University<br>
   [monowar.hasan@wsu.edu](mailto:monowar.hasan@wsu.edu)
 
-- **[Mohammad Hamad](https://dblp.org/pid/168/2446.html)** (Co-Chair), Technical University of Munich, Germany<br>
+- **[Mohammad Hamad](https://dblp.org/pid/168/2446.html)** (Co-Chair), Technical University of Munich<br>
   [mohammad.hamad@tum.de](mailto:mohammad.hamad@tum.de)
 
-- **[Zain A. H. Hammadeh](https://dblp.org/pid/160/7463.html)** (Co-Chair), German Aerospace Center (DLR), Germany<br>
+- **[Zain A. H. Hammadeh](https://dblp.org/pid/160/7463.html)** (Co-Chair), German Aerospace Center (DLR)<br>
   [zain.hammadeh@dlr.de](mailto:zain.hammadeh@dlr.de)
 {: .committee-list}
 </section>
