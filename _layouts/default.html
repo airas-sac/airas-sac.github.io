@@ -8,7 +8,7 @@
         content="{{ page.description | default: site.description | default: 'AI-enabled Resilience for Autonomous Systems (AIRAS) - A technical track at the 42nd ACM Symposium on Applied Computing (SAC 2027).' }}">
     <title>{{ page.title | default: site.title | default: 'AIRAS' }}</title>
 
-    <link rel="icon" type="image/png" href="images/acm.png">
+    <link rel="icon" type="image/png" href="{{ '/images/acm.png' | relative_url }}">
 
     <!-- Fonts: Source Serif 4 for headings, Source Sans 3 for body -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,7 +17,7 @@
         href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Source+Sans+3:wght@400;500;600&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
 
     <!-- Structured Data -->
     <script type="application/ld+json">
@@ -36,7 +36,7 @@
     <!-- Navigation -->
     <nav id="top-nav">
         <div class="nav-inner">
-            <a href="./" class="nav-logo">AIRAS</a>
+            <a href="{{ '/airas2027/' | relative_url }}" class="nav-logo">AIRAS</a>
 
             <ul class="nav-links" id="navLinks">
                 <li><a href="#scope">Scope</a></li>
@@ -63,21 +63,12 @@
     <!-- Footer -->
     <footer class="site-footer">
         <div class="footer-inner">
-            <div class="footer-left">
-                <p class="footer-title">AIRAS @ SAC 2027</p>
-                <p>AI-enabled Resilience for Autonomous Systems</p>
-                <p>A technical track at the 42<sup>nd</sup> ACM Symposium on Applied Computing.</p>
-            </div>
-            <div class="footer-right">
-                <a href="https://www.sigapp.org/sac/sac2027/" target="_blank" rel="noopener noreferrer">SAC 2027 &#8599;</a>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <p>&copy; 2027 AIRAS Track Organizers. All rights reserved.</p>
+            <p>&copy; 2027 AIRAS Organizers. All rights reserved.</p>
+            <a href="https://www.sigapp.org/sac/sac2027/" target="_blank" rel="noopener noreferrer">SAC 2027 &#8599;</a>
         </div>
     </footer>
 
-    <script src="script.js"></script>
+    <script src="{{ '/script.js' | relative_url }}"></script>
 </body>
 
 </html>

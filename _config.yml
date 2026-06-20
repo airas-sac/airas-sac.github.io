@@ -1,3 +1,6 @@
 title: AIRAS
-description: "AI-enabled Resilience for Autonomous Systems (AIRAS) - A technical track at the 42nd ACM Symposium on Applied Computing (SAC 2027)."
+description: "AI-enabled Resilience for Autonomous Systems (AIRAS) yearly websites."
 markdown: kramdown
+exclude:
+  - Makefile
+  - README.md
