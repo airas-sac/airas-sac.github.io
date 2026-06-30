@@ -93,14 +93,13 @@ Please visit [ACM SRC program](https://src.acm.org/) and [SAC SRC program](https
 
 ## Important Dates
 
-- Paper Submission Deadline: **October 2, 2026**
-- Notification to Authors: TBD
-- Camera-ready Due: TBD
-- Author Registration Deadline: TBD
+- Regular paper and SRC abstract submission: **October 2, 2026**
+- Paper acceptance/rejection notification: **November 13, 2026**
+- SRC acceptance/rejection notification: **November 13, 2026**
+- Camera-ready copies due: **November 28, 2026**
+- Author registration due: **December 5, 2026**
+- Conference dates: **April 5–9, 2027**
 {: .dates-list}
-
-All deadlines will be announced in accordance with SAC 2027 guidelines.
-{: .dates-note}
 </section>
 
 <section id="committee" class="section" markdown="1">
