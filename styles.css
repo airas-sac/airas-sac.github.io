@@ -408,6 +408,23 @@ strong {
 }
 
 /* ──────────────────────────────────────────────
+   TECHNICAL PROGRAM COMMITTEE
+   ────────────────────────────────────────────── */
+.tpc-list {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    margin-top: 1rem;
+    column-count: 2;
+    column-gap: 2.5rem;
+}
+
+.tpc-list li {
+    margin-bottom: 0.35rem;
+    line-height: 1.55;
+    break-inside: avoid;
+}
+
+/* ──────────────────────────────────────────────
    COMMITTEE
    ────────────────────────────────────────────── */
 .committee-list {
@@ -488,6 +505,11 @@ strong {
     }
 
     .topics-list {
+        padding-left: 1rem;
+    }
+
+    .tpc-list {
+        column-count: 1;
         padding-left: 1rem;
     }
 

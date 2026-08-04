@@ -122,7 +122,24 @@ Please visit [ACM SRC program](https://src.acm.org/) and [SAC SRC program](https
 
 ## Technical Program Committee
 
-TBD
+- Abdullah Alarafat
+- Amr Alanwar
+- Andrea Saracino
+- Andrew Roberts
+- Daniel Casini
+- Erisa Karafili
+- Gustavo Bertoli
+- Khazaanurul Hoque
+- Luigi De-Simone
+- Mengyu Liu
+- Saleh Mulhem
+- Sisheng Liang
+- Soumyajit Dey
+- Sven Hallerbach
+- Vijay Banerjee
+- Yi Zhu
+- Zizong Yoon
+{: .tpc-list}
 </section>
 
 <section id="publicity-chair" class="section" markdown="1">
