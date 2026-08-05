@@ -122,23 +122,23 @@ Please visit [ACM SRC program](https://src.acm.org/) and [SAC SRC program](https
 
 ## Technical Program Committee
 
-- Abdullah Alarafat
-- Amr Alanwar
-- Andrea Saracino
-- Andrew Roberts
-- Daniel Casini
-- Erisa Karafili
-- Gustavo Bertoli
-- Khazaanurul Hoque
-- Luigi De-Simone
-- Mengyu Liu
-- Saleh Mulhem
-- Sisheng Liang
-- Soumyajit Dey
-- Sven Hallerbach
-- Vijay Banerjee
-- Yi Zhu
-- Zizong Yoon
+- Abdullah Al Arafat<br>[aarafat@fiu.edu](mailto:aarafat@fiu.edu)
+- Amr Alanwar<br>[alanwar@tum.de](mailto:alanwar@tum.de)
+- Andrea Saracino<br>[andrea.saracino@santannapisa.it](mailto:andrea.saracino@santannapisa.it)
+- Andrew Roberts<br>[andrew.roberts@taltech.ee](mailto:andrew.roberts@taltech.ee)
+- Daniel Casini<br>[daniel.casini@santannapisa.it](mailto:daniel.casini@santannapisa.it)
+- Erisa Karafili<br>[E.Karafili@soton.ac.uk](mailto:E.Karafili@soton.ac.uk)
+- Gustavo Bertoli<br>[gustavo.bertoli@airbus.com](mailto:gustavo.bertoli@airbus.com)
+- Khaza Anuarul Hoque<br>[hoquek@missouri.edu](mailto:hoquek@missouri.edu)
+- Luigi De Simone<br>[luigi.desimone@unina.it](mailto:luigi.desimone@unina.it)
+- Mengyu Liu<br>[mengyu.liu@wsu.edu](mailto:mengyu.liu@wsu.edu)
+- Saleh Mulhem<br>[saleh.mulhem@uni-luebeck.de](mailto:saleh.mulhem@uni-luebeck.de)
+- Sisheng Liang<br>[liang4s@cmich.edu](mailto:liang4s@cmich.edu)
+- Soumyajit Dey<br>[soumya@cse.iitkgp.ac.in](mailto:soumya@cse.iitkgp.ac.in)
+- Sven Hallerbach<br>[sven.Hallerbach@dlr.de](mailto:sven.Hallerbach@dlr.de)
+- Vijay Banerjee<br>[vbanerjee@anl.gov](mailto:vbanerjee@anl.gov)
+- Yi Zhu<br>[yzhu39@wayne.edu](mailto:yzhu39@wayne.edu)
+- Zizong Yoon<br>[z.yoon@kau.ac.kr](mailto:z.yoon@kau.ac.kr)
 {: .tpc-list}
 </section>
 

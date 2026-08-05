@@ -415,13 +415,18 @@ strong {
     padding-left: 1.5rem;
     margin-top: 1rem;
     column-count: 2;
-    column-gap: 2.5rem;
+    column-gap: 2rem;
 }
 
 .tpc-list li {
-    margin-bottom: 0.35rem;
-    line-height: 1.55;
+    margin-bottom: 0.7rem;
+    line-height: 1.4;
     break-inside: avoid;
+}
+
+.tpc-list a {
+    font-size: 0.88rem;
+    word-break: break-word;
 }
 
 /* ──────────────────────────────────────────────
