@@ -83,8 +83,8 @@ Please visit [ACM SRC program](https://src.acm.org/) and [SAC SRC program](https
 
 ## Submission Portal
 
-- Paper submissions: TBD
-- Student Research Competition (SRC): TBD
+- Paper submissions: [SAC 2027 submission site](https://www.sigapp.org/sac/sac2027/submission.php)
+- Student Research Competition (SRC): [SAC 2027 SRC submission site](https://www.sigapp.org/sac/sac2027/submission_src.php)
 {: .portal-list}
 </section>
 
@@ -134,6 +134,8 @@ Please visit [ACM SRC program](https://src.acm.org/) and [SAC SRC program](https
 - Khaza Anuarul Hoque, University of Missouri
 - Luigi De Simone, University of Naples Federico II
 - Mengyu Liu, Washington State University
+- Monika Akbar, The University of Texas at El Paso
+- Nan Guan, City University of Hong Kong
 - Saleh Mulhem, University of Lübeck
 - Shareef Ahmed, University of South Florida
 - Sisheng Liang, Central Michigan University
