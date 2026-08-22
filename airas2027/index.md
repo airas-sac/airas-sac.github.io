@@ -123,6 +123,7 @@ Please visit [ACM SRC program](https://src.acm.org/) and [SAC SRC program](https
 ## Technical Program Committee
 
 - Abdullah Al Arafat, Florida International University
+- Amir Salarpour, Clemson University
 - Amr Alanwar, Technical University of Munich
 - Andrea Saracino, Scuola Superiore Sant'Anna
 - Andrew Roberts, Tallinn University of Technology
@@ -151,7 +152,8 @@ Please visit [ACM SRC program](https://src.acm.org/) and [SAC SRC program](https
 
 ## Publicity Chair
 
-TBD
+- Afia Anjum, Texas Christian University
+{: .committee-list}
 </section>
 
 <section id="web-chair" class="section" markdown="1">

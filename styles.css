@@ -414,8 +414,7 @@ strong {
     list-style-type: disc;
     padding-left: 1.5rem;
     margin-top: 1rem;
-    column-count: 2;
-    column-gap: 2.5rem;
+    column-count: 1;
 }
 
 .tpc-list li {
